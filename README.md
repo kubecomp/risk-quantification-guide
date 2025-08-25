@@ -1,4 +1,4 @@
-# Risk Quantification Guide
+# Risk Register Template
 
 ## 1. Scoring Model
 - **Likelihood (1–5)**: 1 = Rare, 5 = Almost Certain
